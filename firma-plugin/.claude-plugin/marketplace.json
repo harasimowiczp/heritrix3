@@ -1,0 +1,13 @@
+{
+  "name": "firma-lokalna",
+  "owner": {"name": "harasimowiczp"},
+  "metadata": {"description": "Lokalny marketplace z wtyczką firma (bez publikacji w sieci)."},
+  "plugins": [
+    {
+      "name": "firma",
+      "source": "./plugins/firma",
+      "description": "Wirtualna firma: 47 specjalistów, /firma:roles dobiera zespół i narzędzia, tryb poufny.",
+      "version": "1.0.0"
+    }
+  ]
+}
