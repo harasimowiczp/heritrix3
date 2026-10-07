@@ -1,0 +1,8 @@
+{
+  "name": "firma",
+  "version": "1.0.0",
+  "description": "Wirtualna firma: 47 specjalistów jako subagenci. /firma:roles analizuje zadanie i dobiera zespół, skille, pluginy, MCP i narzędzia offline; strażnik poufności blokuje wysyłkę danych na zewnątrz.",
+  "author": {"name": "harasimowiczp"},
+  "license": "MIT",
+  "keywords": ["roles", "team", "orchestration", "privacy", "offline", "polski"]
+}
